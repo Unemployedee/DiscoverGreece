@@ -1,0 +1,28 @@
+@import url("header.css");
+@import url("desc.css");
+
+body{
+    max-width: 1470px;
+    margin: auto;
+}
+
+@font-face{
+    font-family: "Merriweather-Regular";
+    src: url("../fonts/Merriweather-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "Lato - Semibold";
+    src: url("../fonts/Lato-Semibold.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}

@@ -1,0 +1,52 @@
+.main-header{
+    font-family: "Merriweather-Regular";
+    color: #cccccc;
+    margin: 27px 80px;
+}
+
+.logo{
+    margin-right: 569px;
+    font-size: 24px;
+    display: inline;
+}
+
+.logo__img{
+        position: relative;
+    top: 18px;
+}
+
+.nav-menu{
+    display: inline;
+    font-family: "Lato - Semibold";
+}
+
+.nav-menu__el{
+    display: inline-flex;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+a.nav-menu__el-text:active, /* активная/посещенная ссылка */
+a.nav-menu__el-text:hover,  /* при наведении */
+a.nav-menu__el-text {
+  text-decoration: none;
+  color: #cccccc;
+}
+
+.btn{
+    background-color: #1289d5;
+    color: #ffffff;
+    font-family: "Lato - Semibold";
+    font-size: 14px;
+    padding: 15px 27px;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+nav, ul{
+    display: inline;
+    padding: 0;
+    /* ЧТО ЭТО */
+}

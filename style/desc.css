@@ -1,0 +1,69 @@
+.desc{
+    background-color: #53a2db;
+    padding-top: 194px;
+    padding-left: 174px;
+}
+
+.discount__text{
+    text-transform: uppercase;
+    font-family: "Lato - Semibold";
+    font-size: 18px;
+    color: #ffffff;
+
+}
+
+.discount__title{
+    font-family: "Lato - Semibold";
+    font-size: 70px;
+    color: #12c1fc;
+    text-transform: uppercase;
+    margin-top: 21px;
+    letter-spacing: 1.75px;
+    margin: 0;
+}
+
+.main-desc{
+    margin-top: 19px;
+    color: #ffffff;
+    width: 465px;
+}
+
+.main-desc__title{
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: "Lato";
+}
+
+.main-desc__text{
+    font-family: "Merriweather-Regular";
+    font-size: 14px;
+    margin-top: 48px;
+    letter-spacing: 0.7px;
+}
+
+.main-desc__btn{
+    width: 164px;
+    margin-top: 18px;
+    border: 2px solid #ffffff;
+    background-color: #53a2db;
+
+}
+.scroll{
+    text-align: center;
+    margin-left: -174px;
+}
+.scroll__text{
+    margin-top: 168px;
+    margin-bottom: 0;
+    font-family: "Lato - Semibold";
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    color: #ffffff;
+}
+
+.scroll__img{
+    margin-top: 16px;
+    margin-bottom: 44px;
+}
