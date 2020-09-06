@@ -1,13 +1,13 @@
 .main-header {
     font-family: "Merriweather-Regular";
     color: #cccccc;
-    display: inline-flex;
+    /* display: inline-flex; */
 }
 
 .logo {
     margin: 30px 80px;
     font-size: 24px;
-    margin-right: 569px;
+    display: inline-block;
 }
 
 .nav-menu__list {
@@ -20,6 +20,7 @@
 }
 
 .nav-menu {
+    float: right;
     margin-top: 37px;
     margin-right: 50px;
 }

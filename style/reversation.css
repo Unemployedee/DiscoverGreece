@@ -1,0 +1,27 @@
+.reversation {
+    margin-top: 29px;
+    height: 160px;
+    background-color: #f6f6f6;
+}
+
+.reversation__header {
+    font-size: 18px;
+    color: #626161;
+    font-family: "Lato - Semibold";
+    text-transform: uppercase;
+    letter-spacing: 0.45px;
+    text-align: center;
+}
+
+.reversation__fields {
+    display: flex;
+    justify-content: center;
+}
+
+.reversation__input {
+    margin-top: 31px;
+    margin-right: 20px;
+    height: 48px;
+    background-color: #dbdbdb;
+    border: none;
+}
