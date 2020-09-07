@@ -1,6 +1,7 @@
 @import url("header.css");
 @import url("desc.css");
 @import url("reversation.css");
+@import url("about.css");
 
 body {
     max-width: 1470px;

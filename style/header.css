@@ -44,10 +44,10 @@ a.nav-menu__el-text {
     border: none;
     text-transform: uppercase;
     border-radius: 5px;
+    letter-spacing: 0.7px;
 }
 
 nav,
 ul {
     display: inline;
-    /* пофикси а */
 }

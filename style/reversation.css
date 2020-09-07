@@ -1,5 +1,5 @@
 .reversation {
-    margin-top: 29px;
+    padding-top: 29px;
     height: 160px;
     background-color: #f6f6f6;
 }
@@ -16,12 +16,39 @@
 .reversation__fields {
     display: flex;
     justify-content: center;
+    margin-top: 31px;
 }
 
 .reversation__input {
-    margin-top: 31px;
+    padding-left: 19px;
+    font-family: Lato;
+    color: #626161;
+    font-size: 14px;
+    height: 48px;
     margin-right: 20px;
     height: 48px;
     background-color: #dbdbdb;
     border: none;
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: center;
+}
+
+.reversation__location {
+    width: 248px;
+    background-image: url('../img/location-icon.png');
+}
+
+.reversation__date {
+    width: 144px;
+    background-image: url('../img/date-icon.png');
+}
+
+.reversation__guests {
+    width: 144px;
+    background-image: url('../img/guests-icon.png');
+}
+
+input[type="date"]::before {
+    content: attr(placeholder) ": ";
 }

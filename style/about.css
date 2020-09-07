@@ -1,0 +1,52 @@
+.about {
+    margin-top: 98px;
+    margin-left: 18.69%;
+}
+
+.about__img {
+    float: left;
+    margin: 31px;
+    padding: 11px;
+    border: 1px solid #b1b0b0;
+}
+
+.about-text {
+    width: 825px;
+    max-width: 100%;
+}
+
+.about-text__header {
+    margin: 0;
+    margin-top: 48px;
+    display: inline-block;
+    color: #fdd687;
+    font-family: Lato;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 40px;
+}
+
+.about-text__desc {
+    margin-top: 40px;
+    font-family: Merriweather;
+    font-size: 16px;
+    color: #999999;
+}
+
+.about-text__btn {
+    margin-top: 36px;
+    float: right;
+}
+
+.logo-line {
+    text-align: center;
+    margin-left: -18.69%;
+    /* it's bad */
+    margin-top: 240px;
+
+    overflow: hidden;
+}
+
+.logo-line__logo {
+    display: inline;
+}
